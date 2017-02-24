@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "*",
+    "bootstrap":"3.3.7",
+    "underscore":"*",
+    "vue":"2.0"
+
+  },
+  "name": "net-learn-site",
+  "description": "* use Laravel and Vue",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortuneZhang/online-learn-site.git"
+  },
+  "keywords": [
+    "online-learn"
+  ],
+  "author": "FortuneZhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FortuneZhang/online-learn-site/issues"
+  },
+  "homepage": "https://github.com/FortuneZhang/online-learn-site#readme"
+}
